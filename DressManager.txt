@@ -1,0 +1,33 @@
+As a user:
+- I want to be able to enter a new Dress file entry
+- I want to be able to enter blouses, shoes and accessories as well
+- I want to be able to classify Dress files by brand, color, year
+- I want to be able to plan outfits (match dress, blouse, shoes and accessories together)
+- I want to be able to know automatically if the dress fits me currently
+- I want to be able to enter my mensurations
+- I want to be able to search items by name, brand, year, color
+
+A dress or blouse file will contain:
+- Name of dress or blouse
+- Year of Fabrication
+- Brand
+- Color
+- Categorie (OP, JSK, SK, Blouse)
+- Picture
+- Dress/Blouse Mensurations
+- Original price
+
+An accessories or shoes file will contain:
+- Name of accessory or shoes
+- Brand
+- Color
+- Categorie (Necklace, Headgear, Bracelet, Wrist cuffs, Ring, Socks, Shoes)
+- Original price (optional)
+
+Outfit planner should contain:
+- Main piece (mandatory)
+- Blouse (optional)
+- Socks (mandatory)
+- Shoes (mandatory)
+- Headgear (optional)
+- Accessories (optional)
