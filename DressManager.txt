@@ -31,3 +31,6 @@ Outfit planner should contain:
 - Shoes (mandatory)
 - Headgear (optional)
 - Accessories (optional)
+
+Version #1:
+- One hardcoded Dress entry
